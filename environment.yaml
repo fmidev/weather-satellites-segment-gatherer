@@ -12,5 +12,5 @@ dependencies:
   - pip
   - git
   - pip:
-    - posttroll=1.10.0
-    - pytroll-collectors=0.15.1
+    - posttroll==1.10.0
+    - pytroll-collectors==0.15.1
