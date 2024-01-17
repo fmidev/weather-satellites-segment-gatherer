@@ -5,12 +5,12 @@ dependencies:
   - zeromq
   - pyzmq
   - pyyaml
-  - trollsift
+  - trollsift=0.5.1
   - configobj
   - netifaces
   - s3fs>=2022.8.2
   - pip
   - git
   - pip:
-    - posttroll
-    - pytroll-collectors
+    - posttroll=1.10.0
+    - pytroll-collectors=0.15.1
