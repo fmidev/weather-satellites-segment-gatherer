@@ -1,6 +1,7 @@
 channels:
   - conda-forge
 dependencies:
+  - aiohttp>=3.9.4
   - configobj
   - git
   - netifaces
@@ -11,7 +12,6 @@ dependencies:
   - python=3.11
   - pyyaml
   - pyzmq
-  - requests>=2.33.0
   - s3fs>=2022.8.2
   - trollsift=0.5.1
   - zeromq
