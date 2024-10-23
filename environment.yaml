@@ -1,17 +1,19 @@
 channels:
   - conda-forge
 dependencies:
-  - aiohttp>=3.9.4
+  - aiohttp>=3.10.2
   - configobj
   - git
   - netifaces
   - pip
   - pip:
-    - posttroll==1.10.0
+    - posttroll==1.11.0
     - pytroll-collectors==0.16.0
-  - python=3.11
+  - python=3.12
   - pyyaml
   - pyzmq
   - s3fs>=2022.8.2
   - trollsift=0.5.1
+  - urllib3>=2.2.2
   - zeromq
+  - zipp>=3.19.1
