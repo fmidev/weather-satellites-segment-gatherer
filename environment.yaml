@@ -8,7 +8,7 @@ dependencies:
   - pip
   - pip:
     - posttroll==1.11.0
-    - pytroll-collectors==0.16.0
+    - pytroll-collectors==0.17.0
   - python=3.12
   - pyyaml
   - pyzmq
