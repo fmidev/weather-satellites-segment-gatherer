@@ -3,7 +3,6 @@ channels:
 dependencies:
   - aiohttp>=3.10.2
   - configobj
-  - git
   - netifaces
   - pip
   - pip:
