@@ -13,7 +13,7 @@ dependencies:
   - pyyaml
   - pyzmq
   - s3fs>=2022.8.2
-  - trollsift=0.5.1
+  - trollsift=0.5.3
   - urllib3>=2.2.2
   - zeromq
   - zipp>=3.19.1
