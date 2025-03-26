@@ -12,7 +12,7 @@ dependencies:
   - python=3.12
   - pyyaml
   - pyzmq
-  - s3fs>=2022.8.2
+  - s3fs>=2025.3.0
   - trollsift=0.5.3
   - urllib3>=2.2.2
   - zeromq
