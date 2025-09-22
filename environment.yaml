@@ -9,7 +9,7 @@ dependencies:
   - pip:
     - posttroll==1.12.1
     - pytroll-collectors==0.17.0
-  - python=3.12
+  - python=3.13
   - pyyaml
   - pyzmq
   - s3fs>=2025.3.0
