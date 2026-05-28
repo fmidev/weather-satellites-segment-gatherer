@@ -7,12 +7,12 @@ dependencies:
   - netifaces
   - pip
   - pip:
-    - posttroll==1.14.0
-    - pytroll-collectors==0.20.0
+    - posttroll==1.15.0
+    - pytroll-collectors==0.21.0
   - python=3.13
   - pyyaml
   - pyzmq
-  - s3fs>=2026.2.0
+  - s3fs>=2026.4.0
   - trollsift=1.0.0
   - urllib3>=2.6.0
   - zeromq
