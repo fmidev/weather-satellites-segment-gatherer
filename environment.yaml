@@ -3,6 +3,7 @@ channels:
 dependencies:
   - aiohttp>=3.10.2
   - botocore
+  - certifi
   - configobj
   - netifaces
   - pip
