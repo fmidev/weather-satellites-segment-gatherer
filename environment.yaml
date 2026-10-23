@@ -3,10 +3,10 @@ channels:
 dependencies:
   - aiohttp>=3.10.2
   - botocore
-  - certifi
+  - certifi>=2026.10.19
   - configobj
   - netifaces
-  - pip
+  - pip>=26.2.2
   - pip:
     - posttroll==1.16.0
     - pytroll-collectors==0.22.0
